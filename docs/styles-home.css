@@ -465,6 +465,10 @@ h3 {
   object-fit: cover;
 }
 
+.visual-world .gallery-item:first-child img {
+  object-position: center top;
+}
+
 .gallery-item.contain img {
   object-fit: contain;
   background:
